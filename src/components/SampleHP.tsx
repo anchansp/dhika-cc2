@@ -100,7 +100,7 @@ export default function SampleHP() {
                 <p className="lg:text-2xl">
                   Perfect for any occasion, these cookies add a touch of
                   sweetness and love to every moment. Baked fresh daily with
-                  premium ingredients, they're a joyful gift or a special treat
+                  premium ingredients, they are a joyful gift or a special treat
                   for yourself. Check our signature product from button below!
                 </p>
               </div>
